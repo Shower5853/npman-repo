@@ -9,4 +9,6 @@ echo "Binary file moved to /usr/bin/npm"
 sudo chmod +x /usr/bin/npm
 echo "chmod +x"
 
+echo
+
 echo "NPM has been succesfully installed/updated!"
